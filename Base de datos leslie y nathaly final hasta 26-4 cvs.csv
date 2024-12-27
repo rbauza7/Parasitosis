@@ -1,0 +1,23 @@
+Código;Lugar;Nombre;Edad;Sexo;Resultado;Tipo de parásitos;Clasificación 1;Clasificación 2
+115pl;Puerto López;Milian Mero Franco;32;Femenino;Negativo;;;
+116pl;Puerto López;Silvia Marin ;31;Femenino;Negativo;;;
+117pl;Puerto López;Mariuxi Franco;41;Femenino;Negativo;;;
+118pl;Puerto López;Maria Franco;58;Femenino;Negativo;;;
+119pl;Puerto López;Emanuel Parrales;4;Masculino;Negativo;;;
+120pl;Puerto López;Marlene Pluas ;80;Femenino;Negativo;;;
+121pl;Puerto López;Ashley Franco ;2;Femenino;Negativo;;;
+122pl;Puerto López;Emily Santana ;8;Femenino;Positivo;Blastocystis sp;Giardia lambia;
+123pl;Puerto López;Matias Quijije;4;Masculino;Positivo;Giardia lambia ;;
+124pl;Puerto López;Andrea Bacusay ;25;Femenino;Positivo;Blastocystis sp;Endolimax nana;
+125pl;Puerto López;Mia Quijije;6;Femenino;Negativo;;;
+200pl;Puerto López;María Mero Chilan;51;Femenino;Positivo;Blastocystis sp;Endolimax nana;Entamoeba coli
+201pl;Puerto López;Leslie Lucas;27;Femenino;Positivo;Complejo entamoeba;;
+202pl;Puerto López;Sifredo Manzavaire;87;Masculino;Positivo;Blastocystis sp;Endolimax nana;Entamoeba coli
+203pl;Puerto López;Angela Muñoz ;55;Femenino;Negativo;;;
+204pl;Puerto López;Alexandra Pincay;52;Femenino;Negativo;;;
+205pl;Puerto López;Ines Asensio ;67;Femenino;Negativo;;;
+206pl;Puerto López;Veronica Pilax ;50;Femenino;Positivo;Blastocystis sp;;
+207pl;Puerto López;Maria Arteaga;23;Femenino;Positivo;Endolimax nana ;Blastocystis sp;
+208pl;Puerto López;Paula Bowen ;9;Femenino;Positivo;Blastocystis sp;;
+209pl;Puerto López;Jorge Napa;30;Masculino;Negativo;;;
+210pl;Puerto López;Alberto Pilar ;30;Masculino;Positivo;Blastocystis sp;;
